@@ -1,0 +1,277 @@
+0	plechi_scorp_mon1	plechito_scorpion_monsters\plechi_scorp_mon1
+0	plechi_scorp_mon2	plechito_scorpion_monsters\plechi_scorp_mon2
+0	plechi_scorp_mon3	plechito_scorpion_monsters\plechi_scorp_mon3
+0	plechi_scorp_mon4	plechito_scorpion_monsters\plechi_scorp_mon4
+0	plechi_scorp_mon5	plechito_scorpion_monsters\plechi_scorp_mon5
+0	plechi_scorp_mainboss	plechito_scorpion_monsters\plechi_scorp_mainboss
+0	plechi_scorp_boss1	plechito_scorpion_monsters\plechi_scorp_boss1
+0	scorpion_stone1	metinstone
+0	plechi_scorp_guard	plechito_scorpion_npcs\plechi_scorp_guard
+0	plechi_scorp_dcrystal_nactive	plechito_scorpion_npcs\plechi_scorp_dcrystal
+0	plechi_scorp_dcrystal_active	plechito_scorpion_npcs\plechi_scorp_dcrystal
+0	plechi_scorp_chest	plechito_scorpion_npcs\plechi_scorp_chest
+0	plechi_chamwis_monster1	plechi_chamber_wisdom\plechi_chamwis_monster1
+0	plechi_chamwis_monster2	plechi_chamber_wisdom\plechi_chamwis_monster2
+0	plechi_chamwis_monster3	plechi_chamber_wisdom\plechi_chamwis_monster3
+0	plechi_chamwis_boss	plechi_chamber_wisdom\plechi_chamwis_boss
+0	plechi_chamwis_stone1a	plechito_chamber_wisdom\plechi_chamwis_stone1
+0	plechi_chamwis_stone1b	plechito_chamber_wisdom\plechi_chamwis_stone1
+0	plechi_chamber_npc1	plechito_chamber_wisdom\plechi_chamber_npc1
+0	plechi_chamber_npc2	plechito_chamber_wisdom\plechi_chamber_npc2
+0	plechi_chamber_npc3	plechito_chamber_wisdom\plechi_chamber_npc3
+0	plechi_chamber_npc4	plechito_chamber_wisdom\plechi_chamber_npc4
+0	plechi_anduntemp_stone1	plechito_andun_chapter\plechi_anduntemp_stone1
+0	plechi_anduntemp_stone2	plechito_andun_chapter\plechi_anduntemp_stone2
+0	plechi_anduntemp_stone5	plechito_andun_chapter\plechi_anduntemp_stone5
+0	plechi_anduntemp_boss2	plechito_andun_chapter\plechi_anduntemp_boss2
+0	plechi_anduntemp_boss3	plechito_andun_chapter\plechi_anduntemp_boss3
+0	plechi_anduntemp_boss4	plechito_andun_chapter\plechi_anduntemp_boss4
+0	plechi_anduntemp_boss5	plechito_andun_chapter\plechi_anduntemp_boss5
+0	plechi_anduntemp_bossmain	plechito_andun_chapter\plechi_anduntemp_bossmain
+0	plechi_anduntemp_monster1	plechito_andun_chapter\plechi_anduntemp_monster1
+0	plechi_anduntemp_monster2	plechito_andun_chapter\plechi_anduntemp_monster2
+0	plechi_anduntemp_monster5	plechito_andun_chapter\plechi_anduntemp_monster5
+0	plechi_anduntemp_npc1	plechito_andun_chapter\plechi_anduntemp_npc1
+0	plechi_anduntemp_npc3	plechito_andun_chapter\plechi_anduntemp_npc3
+0	plechi_anduntemp_npc8	plechito_andun_chapter\plechi_anduntemp_npc8
+0	plechito_pyramid_npc1	plechito_pyramid_npcs\plechito_pyramid_npc1
+0	plechi_chamber_book1	plechito_chamber_wisdom\plechi_chamber_book1
+0	plechi_chamber_book2	plechito_chamber_wisdom\plechi_chamber_book2
+0	plechi_chamber_book3	plechito_chamber_wisdom\plechi_chamber_book3
+0	plechi_hall2022_mainboss	plechito_halloween2022\plechi_hall2022_mainboss
+0	goods_02 	goods
+0	bank_02 	bank
+0	metinstone_11	metinstone_02
+0	metinstone_13	metinstone_02
+0	metinstone_15	metinstone_02
+0	metinstone_12	metinstone_02
+0	metinstone_16	metinstone
+0	metinstone_10	metinstone_02
+0	unicorn1	unicorn
+0	halloween_2016_dragon_silver_02	halloween_2016_dragon
+0	christmas_2016_mammoth_02	christmas_2016_mammoth
+0	ramadan_2017_camel_01	ramadan_2017_camel
+0	christmas_2017_sleddog_02	christmas_2017_sleddog
+0	halloween_2018_cerberos_01	halloween_2018_cerberos
+0	easter_2020_cow_1	easter_2020_cow
+0	ramadan_2020_sphinx_1	ramadan_2020_sphinx
+0	halloween_2017_volcano_beast_02	halloween_2017_volcano_beast
+0	halloween_2016_dragon_gold_01	halloween_2016_dragon
+0	pig_young1_white	pig_young1
+0	dog_young1_white	dog_young1
+0	tiger_young1_white	tiger_young1
+0	lion_young1_white	lion_young1
+0	leopard_young1_black	leopard_young1
+0	blue_dragon_young2	blue_dragon_young1
+0	skipia_general_young2	skipia_general_young1
+0	pve_dragon_young_1	pve_dragon_young
+0	red_dragon_young2	red_dragon_young1
+0	halloween_2018_witch_01	halloween_2018_witch
+0	christmas_2018_nutcracker_02	christmas_2018_nutcracker
+0	ramadan_2019_camel_1	ramadan_2019_camel
+0	bridge_block_chain	flame_bridge_block_chain
+9001	arms
+9002	defence
+9003	goods
+9006	hotel_grandma
+9010	goods_02
+9011	bank_02
+20349	jinno_patrol_spear
+20011	plant_researcher
+11000	gangyo_patrol_spear
+11001	gangyo_patrol_bow
+11002	jinno_patrol_spear
+11003	jinno_patrol_bow
+11004	sinsu_patrol_spear
+11005	sinsu_patrol_bow
+20358	#season1/npc/nnflower/
+20382	#season1/npc/nnflower/
+20351	jinno_patrol_spear
+20087	#season1/npc/handaup/
+20081	seal_stone
+8052	metinstone_11
+8054	metinstone_13
+8056	metinstone_15
+8057	metinstone_12
+8059	metinstone_16
+8035	metinstone_10
+3301	lemures_soldier
+3302	lemures_soldier2
+3001	gnoll_soldier
+3401	triton_soldier
+3402	triton_soldier2
+3701	giant_soldier
+3702	giant_soldier2
+1001	skeleton_soldier_scythe
+1003	skeleton_soldier_spear
+3502	redthief_soldier2
+3504	redthief_officer
+20226	unicorn
+20227	unicorn1
+20245	halloween_2016_dragon_silver_02
+20247	christmas_2016_mammoth_02
+20248	ramadan_2017_camel_01
+20252	reddragon_fly
+20258	christmas_2017_sleddog_02
+20259	halloween_2018_cerberos_01
+20267	easter_2020_cow_1
+20269	ramadan_2020_sphinx_1
+20251	halloween_2017_volcano_beast_02
+20244	halloween_2016_dragon_gold_01
+20271	mont_griffin
+20272	necro_transport_horse_sea
+20273	laleci_fire_lord_mount
+20274	plechi_flybird_mount
+20275	plechi_majestic_panda
+20276	plechi_ninetail_wolf3
+20277	plechi_summer2022_mount6
+20278	catopirate_mark
+34011	bear_young1
+34017	pig_young1_white
+34018	dog_young1_white
+34019	tiger_young1_white
+34020	lion_young1_white
+34023	leopard_young1_black
+34037	blue_dragon_young2
+34039	skipia_general_young1
+34047	pve_dragon_young_1
+34064	red_dragon_young1
+34089	reddragon_human
+34097	halloween_2018_witch_01
+34107	christmas_2018_nutcracker_02
+34109	ramadan_2019_camel_1
+34010	luffy
+34015	plechi_warchicken_pet
+34016	pirateparrot_mark
+34024	eelpirate_mark
+34025	nightgryfi_mark
+34026	piratecrab_mark
+34027	mehok_pet_36
+20387	bridge_block_chain
+20388	bridge_block_chain
+26113	wolf_blue_1
+26114	wolf_blue_2
+26115	wolf_blue_2
+26116	wolf_blue_1
+26117	wolf_blue_2
+26118	wolf_blue_2
+26119	razor_sru
+26124	razor_mini
+26125	razor_sru
+26126	razor_mini
+26127	razor_mini
+26128	razor_mini
+26129	razor_mini
+26130	razor_mini
+26131	blue_1
+26132	blue_mini_a_1
+26133	blue_mini_b_1
+26134	blue_1
+26135	blue_mini_a_1
+26136	blue_mini_b_1
+26137	red_1
+26140	red_1
+26142	red_mini_b_1
+26143	krug_big_a_1
+26144	krug_small_a_1
+26145	krug_big_a_1
+26146	krug_small_a_1
+26147	gromp_1
+26148	gromp_1
+26150	environment_sru_duck
+26154	turn_blue
+26155	turn_blue
+26156	turn_blue
+26157	turn_blue
+26158	turn_blue
+26159	turn_blue
+26160	turn_blue
+26161	turn_blue
+26162	turn_blue
+26163	turn_blue
+26165	inhibitor_blue
+26166	inhibitor_blue
+26167	inhibitor_blue
+26168	nexus_blue
+26169	turn_blue
+26170	turn_blue
+26171	turn_blue
+26172	turn_blue
+26173	turn_blue
+26174	turn_blue
+26175	turn_blue
+26176	turn_blue
+26177	turn_blue
+26178	turn_blue
+26180	inhibitor_red
+26181	inhibitor_red
+26182	inhibitor_red
+26183	nexus_red
+26149	baron_sru
+26152	new_elder_dragon
+26153	sru_minion_super_red
+20502	yut_npc
+4424	plechi_scorp_mon1
+4425	plechi_scorp_mon2
+4426	plechi_scorp_mon3
+4427	plechi_scorp_mon4
+4428	plechi_scorp_mon5
+4429	plechi_scorp_boss1
+4430	plechi_scorp_mainboss
+8708	scorpion_stone1
+9414	plechi_scorp_guard
+9415	plechi_scorp_dcrystal_nactive
+9416	plechi_scorp_dcrystal_active
+9417	plechi_scorp_chest
+4308	plechi_chamwis_monster1
+4309	plechi_chamwis_monster2
+4310	plechi_chamwis_monster3
+4311	plechi_chamwis_boss
+8480	plechi_chamwis_stone1a
+8481	plechi_chamwis_stone1b
+9342	plechi_chamber_book1
+9343	plechi_chamber_book2
+9344	plechi_chamber_book3
+9345	plechi_chamber_npc2
+9347	plechi_chamber_npc4
+8723	plechi_anduntemp_stone1
+8724	plechi_anduntemp_stone2
+8727	plechi_anduntemp_stone5
+4544	plechi_anduntemp_boss2
+4545	plechi_anduntemp_boss3
+4547	plechi_anduntemp_boss4
+4548	plechi_anduntemp_boss5
+4526	plechi_anduntemp_monster1
+4527	plechi_anduntemp_monster2
+4530	plechi_anduntemp_monster5
+9447	plechi_anduntemp_npc1
+9286	plechi_gold_guardian
+9289	plechito_pyramid_npc1
+9290	plechi_lady_npc1
+9288	plechi_gold_guard
+9455	plechi_anduntemp_npc8
+9459	plechi_anduntemp_npc3
+9291	plechi_great_shaman
+20016	blacksmith
+20017	Blacksmith_galag
+30000	privateshop
+30001	privateshop2
+9292	plechi_hall2022_mainboss
+9293	ridack_bossorc4
+4062	plechi_gold_monster5
+4063	plechi_gold_monster8
+4064	plechi_gold_monster7
+4065	plechi_gold_monster4
+4066	plechi_gold_monster3
+4067	plechi_gold_monster6
+4068	plechi_gold_monster1
+4069	plechi_gold_boss1
+4070	plechi_gold_boss2
+8452	plechi_gold_stone2
+8453	plechi_gold_stone
+8454	plechi_golden_frog
+9346	plechi_gold_guardian
+9287	plechi_gold_container
+9341	plechi_gold_guard
+4549	plechi_gold_chest
+9294	plechi_anduntemp_bossmain
